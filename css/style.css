@@ -27,6 +27,8 @@ button {
     border: none;
     border-radius: 5%;    
 }
+/* Celly, o seu desktop está sumindo com os dois tipos de botão */
+
 
 /* celular*/
 @media (min-width: 360) and (max-width: 780) {
@@ -65,6 +67,10 @@ nav div ul {
 
 }
  
+
+/* Aqui é o tablet? */
+
+
 @media (min-width: 769px) {
      nav {
         width: 100%;    
