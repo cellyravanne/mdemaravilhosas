@@ -140,39 +140,6 @@ button a {
 }
 
 
-/* cabeçalho desktop */
-
-/* @media (min-width: 769px) {
-    header {
-        min-height: 70vh;
-        flex-direction: row;
-        justify-content: flex-start;
-        align-items: flex-end;
-        padding-top: 1%;
-        padding-left: 8%;
-    }
-
-    header div {
-        display: flex;
-        align-items: flex-start;
-        justify-content: flex-end;
-        text-align: left;
-        width: 70%;
-        min-height: inherit;
-    }
-
-    header div > button {
-        margin: 0;
-    }
-
-    header h1 {
-        font-size: 230%;
-    }
-
-    header p {
-        font-size: 120%;
-    }
-} */
 
 /* sobre */
 
@@ -194,15 +161,7 @@ button a {
     max-width: 300px;
 }
 
-/* @media (min-width: 769px) {
-    .sobre {
-        font-size: 150%;
-    }
 
-    .sobre p {
-        padding: 0 13%;
-    }
-} */
 
 /* perfis*/
 
@@ -234,10 +193,7 @@ button a {
 }
 
 
-/* @media (min-width: 769px) {
-    .perfis > div {
-        width: 70%;
-    } */
+
 
 /* criadoras */
 
@@ -271,14 +227,6 @@ button a {
 .projeto img > a {
     width: 100%;
 } 
-
-/* criadoras desktop */
-/* @media (min-width: 769px) {
-    .criadoras div {
-        width: 50%;
-        align-content: space-around;
-        height: 100vh;
-    } */
 
 
 img {
@@ -350,29 +298,3 @@ footer div:nth-child(3) > img {
     padding: 10px;
 }
 
-/* footer ddesktop */
-
-/* @media (min-width: 769px) {
-    footer {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-content: center;
-    }
-
-    footer div:nth-child(4) {
-        display: block;
-        width: 100%;
-    }
-
-    footer div:nth-child(2) {
-        width: 27%;
-        padding: 0%;
-    }
-    
-
-    footer div:nth-child(1) {
-        padding-right: 10%;
-    }
-} */

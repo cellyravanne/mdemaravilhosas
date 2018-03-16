@@ -145,9 +145,7 @@ header h1 {
 
     .perfis div > div {
         display: flex;
-        /* flex-direction: column; */
         justify-content: center;
-        /* text-align: center; */
         color: #63458a;
         min-width: 115px;
         max-width: 15%;
